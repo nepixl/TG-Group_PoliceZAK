@@ -47,3 +47,6 @@ Solltest Du einmal eine Frage haben oder Dir ist etwas unklar?
 Schreib im Channel: @admin - anschließend wird sich einer der Admins mit Dir in Verbindung setzen.
 
 Das ausnutzen dieser Funktion resultiert in einem Ausschluss der Gruppe.
+
+## Stand dieses Reglements
+24.03.2023 - 13:56
