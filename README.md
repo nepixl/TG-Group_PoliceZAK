@@ -34,8 +34,16 @@ Die Handlung der Administratoren hängt vom Einzelfall ab und wird jedes Mal neu
 - Vermisste Personen/Tiere (sofern das nicht überhand nimmt)
 - "noch da?"-Fragen werden geduldet bei einem Unfall/einer Behinderung
 
+## Informationen
+
+* Bei Fotos ist es absolut nötig, dass Gesichter und Nummernschilder unkenntlich gemacht werden!
+* Achtet darauf, was Ihr von "euch" Preisgebt
+
+
+
 ## Fragen & Hilfe
 
 Solltest Du einmal eine Frage haben oder Dir ist etwas unklar?
 Schreib im Channel: @admin - anschließend wird sich einer der Admins mit Dir in Verbindung setzen.
 
+Das ausnutzen dieser Funktion resultiert in einem Ausschluss der Gruppe.
