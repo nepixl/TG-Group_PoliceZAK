@@ -14,54 +14,60 @@ Hier sind die Regeln unseres Telegram-Chats:
 
 ## 1. Allgemeine Regeln
 
-- Sei respektvoll und höflich gegenüber anderen Mitgliedern.
-- Keine Beleidigungen, Hassrede oder Diskriminierung.
-- Vermeide Spam und das Posten von unerwünschten Inhalten.
-
-## 1.1 was geschrieben werden darf/soll
-
-- Wo Blitzer stehen (bitte so genau wie möglich)
-- Wo Unfälle passiert sind (bitte so genau wie möglich)
-- Wo Polizei / Zoll Kontrollen sind (bitte so genau wie möglich)
-- Wo sich Staus und ähnliches bilden (bitte so genau wie möglich)
-- Meldungen von Pendlerstrecken innerhalb ZAK (bitte so genau wie möglich)
+- a) Sei respektvoll und höflich gegenüber anderen Mitgliedern.
+- b) Keine Beleidigungen, Hassrede oder Diskriminierung.
+- c) Vermeide Spam und das Posten von unerwünschten Inhalten.
 
 
-## 2. Verhaltensregeln
+## 2. Was geschrieben werden darf/soll
 
-- Keine Belästigung oder Stalking anderer Mitglieder.
-- Halte dich an die Anweisungen der Moderatoren.
-- Respektiere die Privatsphäre anderer Mitglieder.
-- Vermeide übermäßiges Caps Lock (Großschreibung) im Chat.
-- Verwende angemessene Sprache und halte dich an die Community-Standards.
-- Keine Diskussionen
-- Keine belanglosen Zeitungsartikel
-- Keine Meinungen
-- Keine Eigenwerbung ohne vorherige Genehmigung.
-- Keine Vermutungen -> "Ich glaube", "möglicherweise" und so weiter ...
+- a) Wo Blitzer stehen (bitte so genau wie möglich)
+- b) Wo Unfälle passiert sind (bitte so genau wie möglich)
+- c) Wo Polizei / Zoll Kontrollen sind (bitte so genau wie möglich)
+- d) Wo sich Staus und ähnliches bilden (bitte so genau wie möglich)
+- e) Meldungen von Pendlerstrecken innerhalb ZAK (bitte so genau wie möglich)
+
+
+## 3. Verhaltensregeln
+
+- a) Keine Belästigung oder Stalking anderer Mitglieder.
+- b) Halte dich an die Anweisungen der Moderatoren.
+- c) Respektiere die Privatsphäre anderer Mitglieder.
+- d) Vermeide übermäßiges Caps Lock (Großschreibung) im Chat.
+- e) Verwende angemessene Sprache und halte dich an die Community-Standards.
+- f) Keine Diskussionen
+- g) Keine belanglosen Zeitungsartikel
+- h) Keine Meinungen
+- i) Keine Eigenwerbung ohne vorherige Genehmigung.
+- j) Keine Vermutungen -> "Ich glaube", "möglicherweise" und so weiter ...
 
 
 ## 3. Ausnahmen
-- Vermisste Personen/Tiere (sofern das nicht überhand nimmt)
-- "noch da?"-Fragen werden geduldet bei einem Unfall/einer Behinderung nicht aber bei Kontrollen!
+- a) Vermisste Personen/Tiere (sofern das nicht überhand nimmt)
+- b) "noch da?"-Fragen werden geduldet bei einem Unfall/einer Behinderung nicht aber bei Kontrollen!
 
-## 4. Regeln für den Austausch von Inhalten
 
-- Teile nur Inhalte, für die du die erforderlichen Rechte besitzt.
-- Vermeide das Teilen von urheberrechtlich geschütztem Material.
-- Bitte keine illegalen oder betrügerischen Aktivitäten diskutieren oder fördern.
-- Keine Verbreitung von Falschinformationen oder Gerüchten.
+## 4. Screenshots/Bilder
+
+- a) Teile nur Inhalte, für die du die erforderlichen Rechte besitzt.
+- b) Vermeide das Teilen von urheberrechtlich geschütztem Material.
+- c) Bitte keine illegalen oder betrügerischen Aktivitäten diskutieren oder fördern.
+- d) Keine Verbreitung von Falschinformationen oder Gerüchten.
+- e) Gesichter und Nummernschilder sind unkenntlich zu machen.
+
 
 ## 5. Moderationsrichtlinien
 
-- Die Moderatoren haben das Recht, Nachrichten zu entfernen, die gegen die Regeln verstoßen.
-- Bei wiederholten Verstößen kann es zu Warnungen oder sogar zu einem Ausschluss aus dem Chat kommen.
-- Bei Fragen oder Bedenken wende dich bitte an einen Moderator.
+- a) Die Moderatoren haben das Recht, Nachrichten zu entfernen, die gegen die Regeln verstoßen.
+- b) Bei wiederholten Verstößen kann es zu Warnungen oder sogar zu einem Ausschluss aus dem Chat kommen.
+- c) Bei Fragen oder Bedenken wende dich bitte an einen Moderator.
+
 
 ## 6. Fragen & Hilfe
 
-- Solltest Du einmal eine Frage haben oder Dir ist etwas unklar?
-- Schreib im Channel: @admin - anschließend wird sich einer der Admins mit Dir in Verbindung setzen.
+- a) Solltest Du einmal eine Frage haben oder Dir ist etwas unklar?
+- b) Schreib im Channel: @admin - anschließend wird sich einer der Admins mit Dir in Verbindung setzen.
+
 
 Wir bitten alle Mitglieder, sich an diese Regeln zu halten, um eine positive und respektvolle Umgebung für alle zu gewährleisten. Verstöße gegen diese Regeln können zur Entfernung von Beiträgen, Stummschaltung oder zum Ausschluss aus dem Chat führen.
 
