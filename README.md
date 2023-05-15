@@ -17,7 +17,8 @@ Hier sind die Regeln unseres Telegram-Chats:
 - a) SEID STETS ZU 100% AUFMERKSAM IM STRAßENVERKEHR.
 - b) BENUTZT NIEMALS DAS HANDY WÄHREND DER FAHRT.
 - c) LEST KEINE NACHRICHTEN WÄHREND DER FAHRT.
-- d) UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN.
+- d) UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN!
+
 - e) Sei respektvoll und höflich gegenüber anderen Mitgliedern.
 - f) Keine Beleidigungen, Hassrede oder Diskriminierung.
 - g) Vermeide Spam und das Posten von unerwünschten Inhalten.
