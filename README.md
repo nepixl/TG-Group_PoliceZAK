@@ -1,3 +1,13 @@
+# 🚨Police Zollernalb 🚔 - Regelwerk
+
+## Einleitung
+
+Da wir immer mehr Benutzer in unserem Channel verzeichnen, muss ein Regelwerk her damit die Gruppe nicht unübersichtlich wird.
+Dieser Channel soll rein der Information dienen und nicht der Belästigung der über 4000 Benutzer durch nonsense.
+An diese Regeln gilt es sich zu halten, andernfalls werden die Administratoren des Channels maximal 3 Verwarnungen aussprechen (über unsere Rose) und den Störenfried anschließend aus dem Channel verbannen.
+Die Handlung der Administratoren hängt vom Einzelfall ab und wird jedes Mal neu besprochen, daher kann es durchaus zu "Unterscheidungen" der Handlung kommen.
+
+
 # Regelsammlung
 
 Hier sind die Regeln unseres Telegram-Chats:
