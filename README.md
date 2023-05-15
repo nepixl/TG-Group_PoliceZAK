@@ -14,13 +14,13 @@ Hier sind die Regeln unseres Telegram-Chats:
 
 ## Das Wichtigste vorweg:
 
-- Bitte immer unbedingt die StVO beachten und nicht das Smartphone während der fahrt nutzen, denn dadurch steigt die Unfallgefahr immens.
+- Bitte unbedingt die StVO beachten und nicht das Smartphone während der fahrt nutzen, denn dadurch steigt die Unfallgefahr immens.
 - Falls möglich, nutzt eine Handyhalterung oder überlasst es dem Beifahrer(wenn vorhanden).
-- Nutzt die Sprachnachrichtfunktion, denn unser Chatbot erstellt automatisch eine Textnachricht. (Sprache zu Text)
+- Nutzt die Sprachnachrichtfunktion, denn unser Chatbot erstellt automatisch eine Textnachricht(Sprache zu Text).
 - SEID STETS ZU 100% AUFMERKSAM IM STRAßENVERKEHR.
 - BENUTZT NIEMALS DAS HANDY WÄHREND DER FAHRT.
 - LEST KEINE NACHRICHTEN WÄHREND DER FAHRT.
-- UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN (Oder meldet die Gefahrenstelle nachdem ihr am Ziel angekommen).
+- UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN(Oder meldet die Gefahrenstelle nachdem ihr am Ziel angekommen).
 
 
 ## 1. Allgemeine Regeln
