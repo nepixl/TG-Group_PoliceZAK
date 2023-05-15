@@ -14,18 +14,22 @@ Hier sind die Regeln unseres Telegram-Chats:
 
 ## 1. Allgemeine Regeln
 
-- a) Sei respektvoll und höflich gegenüber anderen Mitgliedern.
-- b) Keine Beleidigungen, Hassrede oder Diskriminierung.
-- c) Vermeide Spam und das Posten von unerwünschten Inhalten.
+- a) SEID STETS ZU 100% AUFMERKSAM IM STRAßENVERKEHR.
+- b) BENUTZT NIEMALS DAS HANDY WÄHREND DER FAHRT.
+- c) LEST KEINE NACHRICHTEN WÄHREND DER FAHRT.
+- d) UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN.
+- e) Sei respektvoll und höflich gegenüber anderen Mitgliedern.
+- f) Keine Beleidigungen, Hassrede oder Diskriminierung.
+- g) Vermeide Spam und das Posten von unerwünschten Inhalten.
 
 
 ## 2. Was geschrieben werden darf/soll
 
-- a) Wo Blitzer stehen (bitte so genau wie möglich)
-- b) Wo Unfälle passiert sind (bitte so genau wie möglich)
-- c) Wo Polizei / Zoll Kontrollen sind (bitte so genau wie möglich)
-- d) Wo sich Staus und ähnliches bilden (bitte so genau wie möglich)
-- e) Meldungen von Pendlerstrecken innerhalb ZAK (bitte so genau wie möglich)
+- a) Wo Blitzer stehen (bitte so genau wie möglich).
+- b) Wo Unfälle passiert sind (bitte so genau wie möglich).
+- c) Wo Polizei / Zoll Kontrollen sind (bitte so genau wie möglich).
+- d) Wo sich Staus und ähnliches bilden (bitte so genau wie möglich).
+- e) Meldungen von Pendlerstrecken innerhalb ZAK (bitte so genau wie möglich).
 
 
 ## 3. Verhaltensregeln
@@ -35,15 +39,15 @@ Hier sind die Regeln unseres Telegram-Chats:
 - c) Respektiere die Privatsphäre anderer Mitglieder.
 - d) Vermeide übermäßiges Caps Lock (Großschreibung) im Chat.
 - e) Verwende angemessene Sprache und halte dich an die Community-Standards.
-- f) Keine Diskussionen
-- g) Keine belanglosen Zeitungsartikel
-- h) Keine Meinungen
+- f) Keine Diskussionen.
+- g) Keine belanglosen Zeitungsartikel.
+- h) Keine Meinungen.
 - i) Keine Eigenwerbung ohne vorherige Genehmigung.
 - j) Keine Vermutungen -> "Ich glaube", "möglicherweise" und so weiter ...
 
 
 ## 3. Ausnahmen
-- a) Vermisste Personen/Tiere (sofern das nicht überhand nimmt)
+- a) Vermisste Personen/Tiere (sofern das nicht überhand nimmt).
 - b) "noch da?"-Fragen werden geduldet bei einem Unfall/einer Behinderung nicht aber bei Kontrollen!
 
 
