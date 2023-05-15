@@ -19,6 +19,10 @@ Hier sind die Regeln unseres Telegram-Chats:
 - !! LEST KEINE NACHRICHTEN WÄHREND DER FAHRT.
 - !! UM EINE NACHRICHT ZU SENDEN, FAHRT UNBEDINGT RECHTS RAN.
 
+Bitte immer unbedingt die StVO beachten und nicht das Smartphone während der fahrt nutzen, denn dadurch steigt die Unfallgefahr immens.
+Falls möglich, nutzt eine Handyhalterung oder überlasst es dem Beifahrer(wenn vorhanden).
+Nutzt die Sprachnachrichtfunktion, denn unser Chatbot erstellt automatisch eine Textnachricht. (Sprache zu Text)
+
 
 ## 1. Allgemeine Regeln
 
